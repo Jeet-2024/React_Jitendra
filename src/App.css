@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* .nav-link{
+  color:white
+} */
+
+.home{
+height: 100px;
+width: 100vw;
+  background: orange;
+}
+.login{
+  height: 100px;
+  width: 100vw;
+    background: rgb(157, 157, 171);
+    text-align: center;
+    margin-top: 14 px;
+
+}
+
+.search{
+/* display: flex; */
+gap : 100px;
+align-content: center;
+margin: auto;
+  height: 100px;
+  width: 100vw;
+    background: blue;
+    text-align: center;
+    margin-top: 14 px;
+}
